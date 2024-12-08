@@ -26,7 +26,7 @@ You will need a Google account to use Google Colab. Simply click the link to ope
 
 1. **Open the notebook**: Click the link below to open the notebook in Google Colab:
    
-   [Open in Google Colab](https://colab.research.google.com/github/your-username/Implementation-of-ML-model-for-image-classification/blob/main/notebook.ipynb)
+   [Open in Google Colab](https://colab.research.google.com/drive/1DgSp7s2MAmnV83IOBuh7dAdnlwTLqqPF?hl=en_GB)
 
 2. **Upload the image**: 
    - The notebook provides a cell for you to upload an image from your local system.
